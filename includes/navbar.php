@@ -2,7 +2,7 @@
 <ul class="navbar-nav bg-gradient-nirox sidebar sidebar-dark accordion" id="accordionSidebar">
 
     <!-- Sidebar - Brand -->
-    <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.php">
+    <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
         <div class="sidebar-brand-text mx-3">Nirox Sculpture Park</div>
     </a>
 
@@ -11,7 +11,7 @@
 
     <!-- Nav Item - Dashboard -->
     <li class="nav-item active">
-        <a class="nav-link" href="index.php">
+        <a class="nav-link" href="index.html">
             <i class="fas fa-fw fa-tachometer-alt"></i>
             <span>Dashboard</span></a>
     </li>
@@ -22,14 +22,14 @@
     
     <!-- Nav Item - Tables -->
     <li class="nav-item">
-        <a class="nav-link" href="artist.php">
+        <a class="nav-link" href="artist.html">
             <i class="fas fa-fw fa-users"></i>
             <span>Artists</span></a>
     </li>
     
     <!-- Nav Item - Tables -->
     <li class="nav-item">
-        <a class="nav-link" href="sculpture.php">
+        <a class="nav-link" href="sculpture.html">
             <i class="fas fa-fw fa-palette"></i>
             <span>Sculptures</span></a>
     </li>
@@ -43,14 +43,14 @@
     
     <!-- Nav Item - Tables -->
     <li class="nav-item">
-        <a class="nav-link" href="exhibition.php">
+        <a class="nav-link" href="exhibition.html">
             <i class="fas fa-fw fa-building"></i>
             <span>Exhibitions</span></a>
     </li>
     
     <!-- Nav Item - Tables -->
     <li class="nav-item">
-        <a class="nav-link" href="event.php">
+        <a class="nav-link" href="event.html">
             <i class="fas fa-fw fa-calendar-alt"></i>
             <span>Events</span></a>
     </li>    
