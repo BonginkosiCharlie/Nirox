@@ -1,0 +1,60 @@
+.btn-nirox {
+  color: #fff;
+  background-color: #bb853a;
+  border-color: #bb853a;
+}
+
+.btn-nirox:hover {
+  color: #fff;
+  background-color: #bb853a;
+  border-color: #bb853a;
+}
+
+.btn-nirox:focus, .btn-nirox.focus {
+  color: #fff;
+  background-color: #bb853a;
+  border-color: #bb853a;
+  box-shadow: 0 0 0 0.2rem rgba(187, 133, 58, 0.5);
+}
+
+.btn-nirox.disabled, .btn-nirox:disabled {
+  color: #fff;
+  background-color: #bb853a;
+  border-color: #bb853a;
+}
+
+.btn-nirox:not(:disabled):not(.disabled):active, .btn-nirox:not(:disabled):not(.disabled).active,
+.show > .btn-nirox.dropdown-toggle {
+  color: #fff;
+  background-color: #bb853a;
+  border-color: #bb853a;
+}
+
+.btn-nirox:not(:disabled):not(.disabled):active:focus, .btn-nirox:not(:disabled):not(.disabled).active:focus,
+.show > .btn-nirox.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(187, 133, 58, 0.5);
+}
+
+.btn-nirox-secondary {
+  color: #fff;
+  background-color: #e3ccac;
+  border-color: #e3ccac;
+}
+
+.text-nirox {
+  color: #bb853a !important;
+}
+
+a.text-nirox:hover, a.text-nirox:focus {
+  color: #bb853a !important;
+}
+
+.bg-gradient-nirox {
+  background-color: #bb853a;
+  background-image: linear-gradient(180deg, #bb853a 10%, #ccaf87 100%);
+  background-size: cover;
+}
+
+.border-left-nirox {
+  border-left: 0.25rem solid #bb853a !important;
+}
